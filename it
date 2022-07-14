@@ -1,0 +1,86 @@
+<html>
+
+<head>
+    <title>Computer Threats and Safety Measures</title>
+    <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Courgette&display=swap" rel="stylesheet">
+     
+</head>
+
+<body>
+<!-- link the sections with Ids - about and book-->
+    <ul class="menu">
+        
+        <li class="link"><a href="About ">About</a> </li>
+        <li class="link"><a href="Cyberspace ">Cyberspace</a></li>  
+        <li class="link"><a href="Computer Threats ">Computer threats!</a></li>
+        <li class="link"><a href="safety measures ">Safety Measures</a></li>
+    </ul>
+
+<section id="welcome">
+    
+    <h1> COMPUTER THREATS AND SAFETY MEASURES </h1>
+    </section>
+
+    <section id="About">
+        
+        <h1>About</h1>
+        
+        <div class="line"></div>
+        <p class="para"> In todays modern , gadget friendly world we use computers for not only entertainment purposes but also for minimal tasks such as paying bills , communicating with one-another etc. Due to how heavily we use computers we have a lot of personal information stored on them and therefore some people can misuse this information in various ways if they get acess to it. Therefore it is our duty to take safety meausures to prevent such computer threats and protect the cyberspace!
+      
+
+</p>
+    </section>
+    
+<section id="Computer Threats ">
+        
+        <h1> What are computer threats?  </h1>
+        
+        <div class="line"></div>
+        <p class="para"> A threat can be either a negative "intentional" event (i.e. hacking: an individual cracker or a criminal organization) or an "accidental" negative event (e.g. the possibility of a computer malfunctioning, or the possibility of a natural disaster event such as an earthquake, a fire, or a tornado) or otherwise a circumstance, capability, action, or event.[1]
+
+This is differentiated from a threat actor who is an individual or group that can perform the threat action, such as exploiting a vulnerability to actualise a negative impact.
+
+A more comprehensive definition, tied to an Information assurance point of view, can be found in "Federal Information Processing Standards (FIPS) 200, Minimum Security Requirements for Federal Information and Information Systems" by NIST of United States of America[2]
+
+Any circumstance or event with the potential to adversely impact organizational operations (including mission, functions, image, or reputation), organizational assets, or individuals through an information system via unauthorized access, destruction, disclosure, modification of information, and/or denial of service. Also, the potential for a threat-source to successfully exploit a particular information system vulnerability.
+      
+
+</p>
+    </section>
+    <section id="safety measures">
+        
+        <h1>some safety measures are-</h1>
+        
+        <div class="line"></div>
+        <p class="para"> Use A Personal Firewall. ...
+Keep Your Browser And Operating System Up-To-Date With Software Updates. ...
+Activate A Pop-Up Blocker. ...
+Scan Your Computer For Spyware Regularly. ...
+When You Are Not Using Your Computer, Shut It Down Or Disconnect It From The Internet.
+      
+
+</p>
+    </section>
+    
+    <section id="Cyberspace ">
+        
+        <h1>What is the cyberspace? </h1>
+        
+        <div class="line"></div>
+    <!-- Fill in the source of the <iframe> tag below to : https://freelymagazine.com/2018/02/14/book-review-i-am-mahala/ -->
+        <iframe width="700" height="700" src="https://en.wikipedia.org/wiki/Cyberspace#:~:text=Cyberspace%20is%20a%20concept%20describing,the%20diffusion%20of%20the%20internet.">
+            
+        </section>
+        
+         
+        
+        
+    
+    
+     
+   
+    
+    
+    </body></html>
